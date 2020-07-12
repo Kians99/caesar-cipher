@@ -1,1 +1,1 @@
-A simple Caesar cipher encyrption program.  
+A simple Caesar cipher encryption program.  
